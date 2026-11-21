@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>git push origin main</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="audio\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>
